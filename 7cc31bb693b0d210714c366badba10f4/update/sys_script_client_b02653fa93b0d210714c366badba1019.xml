@@ -13,6 +13,7 @@
         <script><![CDATA[function onLoad() {
    //Type appropriate comment here, and begin script below
    //Project-2 story-1
+   //Project-2 story-2
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>anuj.patidar</sys_created_by>
@@ -21,7 +22,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>b02653fa93b0d210714c366badba1019</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>CI-DemoComplex</sys_name>
         <sys_overrides/>
         <sys_package display_value="Demo-Complex" source="x_inbe_demo_comple">7cc31bb693b0d210714c366badba10f4</sys_package>
@@ -29,8 +30,8 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Demo-Complex">7cc31bb693b0d210714c366badba10f4</sys_scope>
         <sys_update_name>sys_script_client_b02653fa93b0d210714c366badba1019</sys_update_name>
-        <sys_updated_by>Test.User</sys_updated_by>
-        <sys_updated_on>2024-09-26 12:24:10</sys_updated_on>
+        <sys_updated_by>anuj.patidar</sys_updated_by>
+        <sys_updated_on>2024-09-30 10:47:45</sys_updated_on>
         <table>cmdb_ci_acc</table>
         <type>onLoad</type>
         <ui_type>10</ui_type>
